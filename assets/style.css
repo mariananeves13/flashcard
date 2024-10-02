@@ -56,7 +56,7 @@ body {
     font-weight: 500;
 }
 
-.cartao:houver {
+.cartao:hover {
     transform: rotateY(180deg);
 }
 
