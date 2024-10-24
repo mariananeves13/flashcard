@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'biologia',
-    'Qual o menor e o maior osso do corpo?',
+    'Qual o é o maior osso do corpo?',
     ' fêmur'
 )
 
@@ -29,7 +29,7 @@ criaCartao(
 )
 
 criaCartao( 
-    'categoria',
-    'pergunta',
-    'resposta'
+    'bilogia',
+    'Qual a quantidade de sangue que existe no corpo?',
+    ' 5 litros de sangue'
 )
